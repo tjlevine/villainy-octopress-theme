@@ -1,14 +1,16 @@
-# Villainy Octopress Theme
+# This is Tyler Levine's Octopress theme
 
-This is an Octopress theme based on the sbvtle blog network.
+It is the [villainy theme](https://github.com/mikeclarke/villainy-octopress-theme) with some minor modifications.
 
-![screenshot](http://dl.dropbox.com/u/4479354/Screenshots/sih9btflej5s.png "Screenshot")
+You can see it running live on my [website](http://tylerlevine.com).
 
 ## Installation instructions
 
-Open your terminal and type
+If you really love my theme, feel free to use it on your own site!
+
+Open your favorite terminal and type
 
     $ cd octopress
-    $ git clone git://github.com/mikeclarke/villainy-octopress-theme.git .themes/villainy
+    $ git clone git://github.com/tjlevine/villainy-octopress-theme.git .themes/villainy
     $ rake install['villainy']
     $ rake generate
